@@ -1,4 +1,4 @@
-# Project Name: React (Vite) & Express Application
+# Project Name: NextMovies
 
 ---
 
