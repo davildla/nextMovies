@@ -1,4 +1,4 @@
-# Project Name: NextMovies
+# NextMovies
 
 ---
 
