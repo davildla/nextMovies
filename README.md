@@ -20,7 +20,9 @@ This project is a movies web application built using React with Vite for the fro
    server : 
    cd server
    npm install
-
+   ```
+   ```
+   client : 
    cd ../client
    npm install
    ```
