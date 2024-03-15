@@ -44,7 +44,7 @@ This project is a movies web application built using React with Vite for the fro
 ## Usage
 
 - **API:**
-  - basic crid api for the movies + pagination route
+  - basic crud api for the movies + pagination route
 ---
 
 ## License
