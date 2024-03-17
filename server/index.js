@@ -20,7 +20,6 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-// app.use('/api/flow', flowController);
 app.use('/api/movies', moviesControllers);
 
 app.listen(PORT, () => console.log(`listen on port ${PORT}`));
